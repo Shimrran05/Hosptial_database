@@ -101,7 +101,7 @@ Stored procedures are stored in the `/procedures/` folder.
 ---
 
 ## 📈 ER Diagram
-The ER model visually represents entity relationships such as Patient ↔ Appointment ↔ Doctor and supports normalization up to 3NF. [View diagram here](./ER_Diagram.png).
+The ER model visually represents entity relationships such as Patient ↔ Appointment ↔ Doctor and supports normalization up to 3NF. View in docx file 
 
 ---
 
@@ -122,28 +122,4 @@ The ER model visually represents entity relationships such as Patient ↔ Appoin
 - Stored Procedures
 - Relational Design Best Practices
 
----
-
-## 👨‍💻 How to Run This Project
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/hospital-admin-db.git
-```
-2. Load SQL files into any RDBMS (MySQL/PostgreSQL/SQL Server).
-3. Run DDL scripts to create tables.
-4. Use DML queries and procedures to interact with the database.
-
----
-
-## 📩 Contributors
-- Simran Anjana Rajput
-- [Add Team Members Here]
-
----
-
-## 📌 License
-This project is open-source and available under the MIT License.
-
----
-
-Feel free to fork the repo and extend it for more features like nurse scheduling, medical records, and prescription tracking!
+s
